@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\bin\Debug\prjMiniAccess.exe.config
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\bin\Debug\prjMiniAccess.exe
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\bin\Debug\prjMiniAccess.pdb
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmMain.resources
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.exe
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.pdb
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.frmEmptyDb.resources
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\Interop.DAO.dll
+C:\Users\Admin\Desktop\C#\prjMiniAccess\prjMiniAccess\obj\Debug\prjMiniAccess.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\C#\prjMiniAccess_1_1\prjMiniAccess\bin\Debug\prjMiniAccess.exe.config
+C:\Users\Admin\Desktop\C#\prjMiniAccess_1_1\prjMiniAccess\obj\Debug\Interop.DAO.dll
+C:\Users\Admin\Desktop\C#\prjMiniAccess_1_1\prjMiniAccess\obj\Debug\prjMiniAccess.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\C#\prjMiniAccess_1_1\prjMiniAccess\obj\Debug\prjMiniAccess.exe
+C:\Users\Admin\Desktop\C#\prjMiniAccess_1_1\prjMiniAccess\obj\Debug\prjMiniAccess.pdb
